@@ -1,0 +1,95 @@
+# Critical keywords - immediate flagging with 0.70 score
+# Format: one keyword per line
+# Type markers: [suicide], [threat], [hate]
+
+[suicide]
+kill myself
+end it all
+want to die
+suicide
+kill me
+don't want to live
+better off dead
+no reason to live
+
+[threat]
+kill all
+hate all
+kill them all
+murder all
+death to
+exterminate
+genocide
+gonna kill
+i'll hurt
+destroy you
+ruin you
+going to kill
+watch your back
+know where you live
+make you regret
+everything you care about
+
+[hate]
+hate you
+hate your
+hate everyone
+stupid
+idiot
+moron
+can't do anything right
+loser
+failure
+trash
+garbage
+nobody likes you
+everyone hates you
+you suck
+worthless
+pathetic
+disgustin
+
+[racist]
+don't belong here
+go back
+people of that race
+inferior and dangerous
+inferior
+
+[sexist]
+belong in the kitchen
+too emotional to make
+too emotional
+make important decisions
+
+[religious-hate]
+follow that religion
+all terrorists
+are all terroristsg
+piece of shit
+fucking disgrace
+waste of oxygen
+waste of space
+better without you
+world would be better
+nobody wants you
+nobody will miss you
+should be ashamed
+deserve to die
+deserve pain
+deserve to suffer
+hope you die
+hope you get
+wish you were dead
+burden to everyone
+mistake
+should never
+were never born
+uglier
+can't stand you
+go to hell
+rot in hell
+fuck you
+shut up
+fucking
+shit

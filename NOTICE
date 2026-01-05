@@ -1,0 +1,15 @@
+ToxityFilter
+Copyright 2024-2025 Helpful LLC
+
+This product includes software developed as derivative works of:
+
+- toxic-bert
+  Copyright (c) Unitary Ltd
+  Licensed under Apache License 2.0
+  https://huggingface.co/unitary/toxic-bert
+  
+  Modifications made:
+  - Fine-tuned on ToxiGen dataset for improved accuracy
+  - Domain-adapted for affirmations to reduce false positives
+  - Converted to CoreML format for on-device inference
+  - Quantized to INT8 for reduced model size

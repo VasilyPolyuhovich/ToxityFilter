@@ -1,0 +1,117 @@
+# Moderate keywords - supporting signals with 0.50 score
+# Format: one keyword per line
+
+# Negative emotions
+depressed
+hopeless
+miserable
+terrible
+awful
+worst
+horrible
+hate
+angry
+furious
+sad
+unhappy
+lonely
+annoyed
+irritated
+frustrated
+upset
+disappointed
+
+# Profanity & swearing (comprehensive list from hate speech dataset)
+fuck
+fucking
+fucked
+fucker
+fucks
+fuckin
+fuk
+fuckface
+motherfucker
+motherfucking
+shit
+shitty
+shits
+shitting
+shithead
+bullshit
+dipshit
+bitch
+bitches
+bitchy
+bitchin
+ass
+asses
+asshole
+assholes
+dumbass
+dumbasses
+jackass
+damn
+damned
+dammit
+crap
+crappy
+bastard
+bastards
+dick
+dicks
+cock
+cocks
+cunt
+cunts
+piss
+pissed
+pissing
+whore
+whores
+slut
+sluts
+slutty
+douche
+douchebag
+moron
+retard
+retarded
+retards
+stupid ass
+dumb
+idiot
+imbecile
+
+# Hostile language
+shut up
+get lost
+leave me alone
+go away
+back off
+stop it
+quit it
+
+# Dismissive
+whatever
+don't care
+who cares
+nobody cares
+so what
+big deal
+
+# Racist/xenophobic
+don't belong here
+go back
+people of that race
+inferior
+
+# Sexist
+belong in the kitchen
+not in leadership
+too emotional
+make decisions
+
+# Religious intolerance
+follow that religion
+all terrorists
+terrorists
